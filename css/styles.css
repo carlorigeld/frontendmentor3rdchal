@@ -483,7 +483,7 @@ section {
   }
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 940px) {
   main {
     background-image: url("../images/bg-pattern-intro.svg"),
       linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
