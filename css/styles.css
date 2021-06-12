@@ -318,7 +318,7 @@ section {
 .footer .container {
   max-width: 1440px;
   margin: auto;
-  height: 100%;
+  height: auto;
 }
 
 .row {
